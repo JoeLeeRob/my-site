@@ -1,9 +1,9 @@
-import App from './App.jsx'
+import RootLayout from './RootLayout.jsx'
 
 const routes = [
     {
         path: '/',
-        element: <App />,
+        element: <RootLayout />,
     }
 ]
 
